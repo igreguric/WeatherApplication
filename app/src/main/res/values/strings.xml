@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather_app</string>
+    <string name="splash_text">Testns aplikacija \n \n Ivan Greguric</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+
+    <string name="air_temp">Temperatura zraka</string>
+    <string name="air_humidity">Vlaznost zraka</string>
+    <string name="soil_temp">Temperatura zemlje</string>
+    <string name="soil_humidity">Vlaznost zemlje</string>
+    <string name="date">Vrijeme ocitanja</string>
+    <string name="refresh">Osvjezi podatke</string>
+    <string name="celsius">°C</string>
+    <string name="humidity">%</string>
+</resources>
